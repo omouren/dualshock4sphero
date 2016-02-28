@@ -10,7 +10,7 @@ Just run the following command to download all npm modules:
 ## Usage
 Pair your Dualshock on your computer.
 See [orbotix/sphero.js](https://github.com/orbotix/sphero.js) to know how to pair (or not!) your Sphero.
-Complete begins of index.js with your Sphero BLE address or port.
+Complete begin of index.js with your Sphero BLE address or port.
 
 ## Credits
 Using [orbotix/sphero.js](https://github.com/orbotix/sphero.js) and a fork of [rdepena/node-dualshock-controller](https://github.com/rdepena/node-dualshock-controller).
