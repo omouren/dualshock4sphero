@@ -1,6 +1,6 @@
 var dualShock = require('dualshock-controller');
 var sphero = require("sphero")
-var orb = sphero("fe:b2:87:2b:cb:42");
+var orb = sphero("xx:xx:xx:xx:xx:xx");
 
 var controller = dualShock(
     {
