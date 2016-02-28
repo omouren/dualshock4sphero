@@ -1,0 +1,21 @@
+{
+  "name": "Dualshock4Sphero",
+  "version": "1.0.0",
+  "description": "Controls Sphero / BB-8 with a Dualshock controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omouren/dualshock-4-sphero.git"
+  },
+  "author": "omouren",
+  "license": "ISC",
+  "dependencies": {
+    "dualshock-controller": "github:omouren/node-dualshock-controller",
+    "noble": "^1.3.0",
+    "serialport": "^2.0.6",
+    "sphero": "^0.8.3"
+  }
+}
